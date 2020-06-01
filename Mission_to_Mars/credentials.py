@@ -1,4 +1,0 @@
-apikey= 'hKrKgu5fTKbtHrpsVh2si1Pcs'
-apisecret= '1fqBf1MbMcsLkNBAsxkqAzth9OZz95kXgmvDXIpTR1dhgW5gRO'
-access= '1169515964-UJ9zn1reclLmBIpFDhJjco0mTgoKP69bug6kWpL'
-accesstokensecret= 'P3TZC9S7ndFwwAfYwzZdZGAMrcqGkYLCsRlxD8NQ8H6QL'
